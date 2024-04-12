@@ -185,13 +185,13 @@ const skills = {
             color: "#E94E32",
           },
         },
-        // {
-        //   skillName: "C++",
-        //   fontAwesomeClassname: "simple-icons:cplusplus",
-        //   style: {
-        //     color: "#E94E32",
-        //   },
-        // },
+        {
+          skillName: "Tailwind",
+          fontAwesomeClassname: "",
+          style: {
+            color: "#E94E32",
+          },
+        },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
