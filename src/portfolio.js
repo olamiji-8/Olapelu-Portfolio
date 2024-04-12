@@ -10,10 +10,10 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title2: "Olamiji",
+  logo_name: "Olapelu",
+  nickname: "Olapelu",
+  full_name: "Sotomi Olamiji",
   subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
