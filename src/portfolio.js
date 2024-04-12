@@ -34,14 +34,14 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Backend Development",
+      title: "Fullstack Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "⚡ Developing mobile applications using React Native and Android",
+        "⚡ Creating application backend in Node.js and Express",
+        "⚡ Integration of third-party services such as Firebase and AWS",
       ],
       softwareSkills: [
         {
@@ -274,31 +274,32 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
+      title: "Federal University of Technology Akure",
+      subtitle: "Bachelor in Urban and Regional Planning",
       logo_path: "ssec.png",
       alt_name: "SSEC",
-      duration: "2021 - 2024",
+      duration: "2017 - 2023",
       descriptions: [
-        "⚡ I have studied core subjects like Machine Learning, Computer Vision, Advanced Web Development.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ My studies in Urban and Regional Planning have provided me with a unique perspective on issues of land use, environmental sustainability, and community development.",
+        "⚡ While pursuing my degree, I delved into interdisciplinary subjects such as Machine Learning and Computer Vision, which equipped me with valuable analytical and problem-solving skills applicable to various domains.",
+        "⚡ Throughout my academic journey, I undertook numerous projects that integrated urban planning principles with technology, demonstrating my ability to adapt theoretical knowledge into practical solutions.",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "#",
     },
-    {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
-      descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-        "⚡ I have secured 9.82 CGPA.",
-      ],
-      website_link: "http://www.ssgc.cteguj.in/",
-    },
+    // {
+    //   title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
+    //   subtitle: "Diploma in Information Technology",
+    //   logo_path: "ssgandhy.png",
+    //   alt_name: "SSGC",
+    //   duration: "2018 - 2021",
+    //   descriptions: [
+    //     "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+    //     "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+    //     "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+    //     "⚡ I have secured 9.82 CGPA.",
+    //   ],
+    //   website_link: "http://www.ssgc.cteguj.in/",
+    // },
   ],
 };
 
@@ -387,7 +388,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "As a Node.js Backend Developer, I have worked with real projects for over two years. I've mostly done projects on my own. I love organizing workshops to share my knowledge with others.",
+    "As a MERN Stack Developer, I have worked with real projects for over three years. I've mostly done projects on my own. I love organizing trainings to share my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
     {
