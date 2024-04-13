@@ -558,15 +558,15 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "portfolio.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Support",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+      "If you find my work helpful and would like to support me, you can buy me a coffee using the following link. Your support means a lot!",
+    link: "https://www.buymeacoffee.com/olamijisotq",
     avatar_image_path: "blogs_image.svg",
   },
 };
