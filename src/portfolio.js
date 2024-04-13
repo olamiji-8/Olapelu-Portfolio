@@ -276,7 +276,7 @@ const degrees = {
     {
       title: "Federal University of Technology Akure",
       subtitle: "Bachelor in Urban and Regional Planning",
-      logo_path: "ssec.png",
+      logo_path: "futa.jpeg",
       alt_name: "SSEC",
       duration: "2017 - 2023",
       descriptions: [
